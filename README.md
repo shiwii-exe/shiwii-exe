@@ -1,5 +1,5 @@
 <div align="center" width=100%>
-  <img height="200" src="https://github.com/shiwii-exe/shiwii-exe/blob/main/github_banner.png"  />
+  <img src="https://github.com/shiwii-exe/shiwii-exe/blob/main/github_banner.png"  />
 </div>
 
 ###
